@@ -16,4 +16,4 @@ make
 chmod +x converter.sh
 5.转码
 sh converter.sh 1.silk mp3
-
+sh converter.sh 1.silk wav
